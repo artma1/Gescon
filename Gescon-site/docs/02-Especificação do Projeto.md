@@ -95,7 +95,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-13| A aplicação deve possuir uma central de ajuda e FAQs com tutoriais e documentação.  | BAIXA |
 |RF-14| A aplicação deve permitir o compartilhamento de eventos em redes sociais.  | BAIXA |
 |RF-15| A aplicação deve moderar a criação de ações voluntárias. | MÉDIA |
-|RF-16| A aplicação deve utilizar IA para sugerir eventos ao usuário. | BAIXA |
+|RF-16| E-commerce por último | BAIXA |
  
 
 ### Requisitos não Funcionais
