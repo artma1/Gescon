@@ -6,21 +6,20 @@
 <table>
 <tbody>
 <tr>
-<th colspan="2">Perfil 01: Jovem adulto de 16 a 24 </th>
+<th colspan="2">Perfil 01: Empresas em expansão </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">
-Jovens em busca de desenvolvimento pessoal
+Empresas em fase de expansão
 </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
- 1. Encontrar um hobby gratuito. <br>
- 2. Encontrar uma forma melhor para organizar a rotina. <br>
- 3. Entrar ambiente que facilite sair do sedentarismo. <br>
- 4. Realizar atividades que ajudam a lidar com a ansiedade. <br>
+ 1. Encontrar serviços de SSMA. <br>
+ 2. Realizar treinamentos em novos colaboradores. <br>
+ 3. Cumprir com novas normas e regulações de SSMA. <br>
 </td>
 </tr>
 </tbody>
