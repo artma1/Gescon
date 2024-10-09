@@ -80,13 +80,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Eu como …`QUEM`    | QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
 |Empresas em expansão     |quero adquirir serviços de treinamento em SSMA | treinar novos colaboradores|
-|Empresas em expansão   | quero conhecer melhor a empresa de SSMA e os especialistas | solicitar orçamentos com segurança  |
+|Empresas em expansão   |  quero conhecer melhor a empresa de SSMA e os especialistas | solicitar orçamentos com segurança  |
 
-|Empresas reguladas por normas rigorosas| quero atualizar treinamentos e obter documentos de SSMA  |para seguir normas e evitar multas |
+|Empresas reguladas por normas rigorosas| quero quero atualizar treinamentos e obter documentos de SSMA  |para seguir normas e evitar multas |
 |Empresas reguladas por normas rigorosas| quero uma forma de entrar em contato com um especialista |para solicitar orçamento e adquirir algum serviço |
 
-|Adulto sênior |quero poder acompanhar meu progresso em cada desafio  | para me manter motivado e focado em alcançar meus objetivos |
-|Adulto Sênior | quero poder avaliar os desafios que iniciei usando um sistema de classificação por estrela | para fornecer feedback e ajudar outros usuários e desenvolvedores.  |
+| Empresas em reestruturação |quero consultar diferentes serviços em SSMA oferecidos  | para analisar o que minha empresa precisa |
+| Empresas em reestruturação | quero conversar com um especialista | para que ele me auxilie no que preciso  |
 
 
 ## Requisitos
@@ -103,8 +103,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-06| O sistema deve permitir criação e gerenciamento de usuários.    | ALTA |
 |RF-07| O sistema deve permitir criação e gerenciamento de serviços.    | ALTA |
 |RF-08| O sistema deve exibir os serviços e compra dos serviços, divididos em treinamentos e documentos.    | MÉDIA |
-|RF-09| O sistema deve ter um link de conversa do whatsapp com especialista ao usuário fazer orçamento.   | MÉDIA |
-|RF-10| O sistema deve direcionar o usuário para o contato através de e-mail da empresa ao fazer orçamento  | ALTA |
+|RF-09| O sistema deve ter um link de conversa do whatsapp com especialista ao fazer orçamento.   | MÉDIA |
+|RF-10| O sistema deve direcionar o usuário para o contato através de e-mail da empresa ao fazer orçamento  | BAIXA |
 
 
 **Prioridade: Alta / Média / Baixa.  
