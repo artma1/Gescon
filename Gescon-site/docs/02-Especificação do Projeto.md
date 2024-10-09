@@ -79,12 +79,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |Eu como …`QUEM`    | QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
-|Empresas em expansão     |quero adquirir serviços de treinamento em SSMA | treinar novos colaboradores|
-|Empresas em expansão   |  quero conhecer melhor a empresa de SSMA e os especialistas | solicitar orçamentos com segurança  |
-
+|Empresas em expansão     |quero adquirir serviços de treinamento em SSMA | para treinar novos colaboradores|
+|Empresas em expansão   |  quero conhecer melhor a empresa de SSMA e os especialistas | para solicitar orçamentos com segurança  |
 |Empresas reguladas por normas rigorosas| quero quero atualizar treinamentos e obter documentos de SSMA  |para seguir normas e evitar multas |
 |Empresas reguladas por normas rigorosas| quero uma forma de entrar em contato com um especialista |para solicitar orçamento e adquirir algum serviço |
-
 | Empresas em reestruturação |quero consultar diferentes serviços em SSMA oferecidos  | para analisar o que minha empresa precisa |
 | Empresas em reestruturação | quero conversar com um especialista | para que ele me auxilie no que preciso  |
 
@@ -113,7 +111,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-01|  
+|RNF-01| O sistema deve fazer verificação do usuário por token em e-mail | BAIXA
 |RNF-02|
 
 
