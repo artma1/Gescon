@@ -28,23 +28,21 @@ Empresas em fase de expansão
 <table>
 <tbody>
 <tr>
-<th colspan="2">Perfil 02: Adulto de 30 a 50 anos </th>
+<th colspan="2">Perfil 02: Empresas reguladas por normas rigorosas </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">
-Adultos em busca de desenvolvimento pessoal
+Empresas de diferentes áreas como petróleo e gás ou mineração que lidam com normas rigorosas.
 </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1. Encontrar maneiras de equilibrar a vida profissional e lazer.  <br>
-2. Encontrar uma forma melhor para organizar a rotina. <br>
-3. Entrar ambiente que facilite sair do sedentarismo. <br>
-4. Realizar atividades que ajudam a lidar com a ansiedade. <br>
-5. Entrar uma plataforma que ajude a melhorar a produtividade no trabalho. <br>
-6. Encontrar maneiras de implementar rotinas de autocuidado. <br>
+1. Atualizar treinamento dos colaboradores em diferentes normas de SSMA  <br>
+2. Preparar a empresa para auditorias. <br>
+3. Renovar ou obter novos documentos. <br>
+
 
 </td>
 </tr>
