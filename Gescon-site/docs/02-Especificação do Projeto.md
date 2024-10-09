@@ -52,21 +52,20 @@ Empresas de diferentes áreas como petróleo e gás ou mineração que lidam com
 <table>
 <tbody>
 <tr>
-<th colspan="2">Perfil 03: Adulto sênior 60+ anos</th>
+<th colspan="2">Perfil 03: Empresas em reestruturação</th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">
-Pessoas buscando manter a mente e o corpo ativos
+Empresas que passaram por alguma reestruturação, aquisição ou fusão recente.
 </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1. Entrar ambiente que facilite sair do sedentarismo.  <br>
-2. Encontrar uma plataforma que ajude a realizar atividades que desenvolvem a mente.  <br>
-3. Encontrar maneiras de implementar rotinas de autocuidado. <br>
-4. Encontrar meios para combater isolamento social. <br>
+1. Definir os padrões de conformidade com normas de SSMA.  <br>
+2. Treinar novos colaboradores e equipes.  <br>
+
 </td>
 </tr>
 </tbody>
@@ -80,16 +79,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |Eu como …`QUEM`    | QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
-|Jovem adulto      |poder me cadastrar e fazer login na plataforma para acessar seus recursos | poder realizar os desafios e organizar uma rotina |
-|Jovem adulto     | quero poder editar meus dados pessoais na plataforma  | poder apresentar minhas necessidades de acordo com meu perfil  |
-|Jovem adulto|quero poder filtrar desafios que irão agregar à minha rotina, tanto física quanto mentalmente, para melhorar meu bem-estar| personalizar meus interesses na plataforma de forma organizada  |
-|Adulto| quero poder ver imagens relacionadas a cada desafio na plataforma   |para poder me orientar melhor durante cada passo do desafio |
-|Adulto | quero poder me inscrever nos desafios que me interessam na plataforma  |para poder preservar meus gostos e proporcionar uma avaliação positiva |
-|Adulto|quero poder ver o nível de dificuldade de cada desafio listado na plataforma para selecionar aqueles que correspondem ao meu nível de habilidade. | para poder evoluir gradativamente, não extrapolando meu limite e consequentemente perdendo o interesse nas tarefas do desafio.  |
-|Jovem adulto | quero poder ver a descrição do desafio quando escolhido |  para facilitar meu engajamento no desafio                |
-|Adulto sênior | quero poder receber lembretes da plataforma para completar os desafios nos quais me propus  | para eu poder garantir um compromisso com aquele desafio|
+|Empresas em expansão     |quero adquirir serviços de treinamento em SSMA | treinar novos colaboradores|
+|Empresas em expansão   | quero conhecer melhor a empresa de SSMA e os especialistas | solicitar orçamentos com segurança  |
+
+|Empresas reguladas por normas rigorosas| quero atualizar treinamentos e obter documentos de SSMA  |para seguir normas e evitar multas |
+|Empresas reguladas por normas rigorosas| quero uma forma de entrar em contato com um especialista |para solicitar orçamento e adquirir algum serviço |
+
 |Adulto sênior |quero poder acompanhar meu progresso em cada desafio  | para me manter motivado e focado em alcançar meus objetivos |
-|Jovem adulto | Quero que a plataforma mostre quando eu concluir um desafio  | para ter uma noção de como estou evoluindo  |
 |Adulto Sênior | quero poder avaliar os desafios que iniciei usando um sistema de classificação por estrela | para fornecer feedback e ajudar outros usuários e desenvolvedores.  |
 
 
